@@ -56,7 +56,15 @@ A full-stack portfolio system with:
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=esubalew7&show_icons=true&theme=tokyonight)
+![Esubalew's GitHub stats](https://github-readme-stats.vercel.app/api?username=esubalew7&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=esubalew7&theme=tokyonight)
+
+## 🧠 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esubalew7&layout=compact&theme=tokyonight)
 
 ---
 
