@@ -13,6 +13,7 @@ I am a third-year Computer Science student at Bahir Dar University specializing 
 ---
 
 🛠 Tech Stack
+
 Frontend
   React.js
   JavaScript (ES6+)
