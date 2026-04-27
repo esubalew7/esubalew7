@@ -14,23 +14,24 @@ I am a third-year Computer Science student at Bahir Dar University specializing 
 
 🛠 Tech Stack
 
-Frontend
-  React.js
-  JavaScript (ES6+)
-  HTML5, CSS3
-  Tailwind CSS, Bootstrap
-Backend
-  Node.js
-  Express.js
-  MongoDB
-  RESTful APIs
-Tools
-  Git & GitHub
-  Postman
-  Vercel / Render
+## Frontend
+    React.js
+    JavaScript (ES6+)
+    HTML5, CSS3
+    Tailwind CSS, Bootstrap
+## Backend
+    Node.js
+    Express.js
+    MongoDB
+    RESTful APIs
+## Tools
+    Git & GitHub
+    Postman
+    Vercel / Render
 ---
 
 🚀 Featured Projects
+
 🔹 MERN Portfolio System
 
 A full-stack portfolio platform with dynamic content management.
