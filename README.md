@@ -1,57 +1,78 @@
-# 👋 Hi, I'm Esubalew Molla
+👋 Hi, I'm Esubalew Molla
+🚀 Full-Stack MERN Developer
 
-## 🚀 Full-Stack MERN Developer
+I am a third-year Computer Science student at Bahir Dar University specializing in full-stack web development using the MERN stack. I focus on building scalable, user-friendly web applications with clean architecture and real-world functionality.
 
-I am a full-stack web developer focused on building modern, scalable, and responsive web applications using the MERN stack.
-
-I enjoy turning ideas into real-world applications with clean UI, strong backend architecture, and smooth user experiences.
-
----
-
-## 🧠 About Me
-
-- 🎓 Computer Science background  
-- 💻 Passionate about full-stack development  
-- 🌱 Always learning new technologies  
-- 🔥 Focused on building real-world projects  
-- 🎯 Goal: Become a professional software engineer  
+🧠 About Me
+🎓 Computer Science student
+💻 Full-stack developer (MERN)
+🔧 Strong interest in backend systems and API design
+🌱 Continuously improving my skills through real-world projects
+🎯 Goal: Become a professional software engineer
 
 ---
 
-## 🛠 Tech Stack
-
-### Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML, CSS
-- Tailwind CSS
-- Bootstrap
-
-### Backend
-- Node.js
-- Express.js
-- MongoDB
-
-### Tools
-- Git & GitHub
-- REST APIs
-- Postman
-- Vercel / Render
-
+🛠 Tech Stack
+Frontend
+  React.js
+  JavaScript (ES6+)
+  HTML5, CSS3
+  Tailwind CSS, Bootstrap
+Backend
+  Node.js
+  Express.js
+  MongoDB
+  RESTful APIs
+Tools
+  Git & GitHub
+  Postman
+  Vercel / Render
 ---
 
-## 🚀 Projects
+🚀 Featured Projects
+🔹 MERN Portfolio System
 
-### 🔹 MERN Portfolio Website
-A full-stack portfolio system with:
-- Admin dashboard
-- Authentication (JWT)
-- Project management system
-- Contact form with backend integration
+A full-stack portfolio platform with dynamic content management.
+Features:
 
-🌐 Live: https://portfolio-mern-one-rho.vercel.app  
-💻 GitHub: https://github.com/esubalew7/portfolio-mern  
+Admin dashboard for managing projects
+JWT-based authentication
+Contact form with backend integration
+Responsive UI with modern design
 
+🌐 Live: https://portfolio-mern-one-rho.vercel.app
+💻 GitHub: https://github.com/esubalew7/portfolio-mern
+
+🔹 Rent Housing Platform
+
+A full-stack application connecting tenants with landlords.
+
+Features:
+
+User authentication and authorization
+Property listing and management
+Advanced search and filtering
+Responsive and user-friendly interface
+
+🌐 Live: https://rent-housing-finder-2.vercel.app/
+
+🔹 College Website
+
+A responsive website for academic and campus information.
+
+Features:
+
+Structured multi-page layout
+Clean navigation system
+Mobile-friendly design
+
+🌐 Live: https://college-website-lemon-three.vercel.app/
+
+🔹 Movie Trailers Website
+
+A web app for browsing and watching movie trailers.
+
+🌐 Live: https://movie-app-taupe-one.vercel.app/
 ---
 
 ## 📊 GitHub Stats
