@@ -1,14 +1,20 @@
 👋 Hi, I'm Esubalew Molla
-🚀 Full-Stack MERN Developer
+🚀 Full Stack MERN Developer | Flutter Mobile App Developer
 
-I am a third-year Computer Science student at Bahir Dar University specializing in full-stack web development using the MERN stack. I focus on building scalable, user-friendly web applications with clean architecture and real-world functionality.
+I am a passionate Computer Science student at Bahir Dar University and a Full Stack Development Intern at Alyah Software Company.
+I specialize in building modern, scalable, and user-focused web & mobile applications using the MERN Stack and Flutter.
 
-🧠 About Me
-🎓 Computer Science student
-💻 Full-stack developer (MERN)
-🔧 Strong interest in backend systems and API design
-🌱 Continuously improving my skills through real-world projects
-🎯 Goal: Become a professional software engineer
+I enjoy transforming ideas into real-world digital solutions with clean architecture, responsive UI, and efficient backend systems.
+
+💫 About Me
+🎓 3rd Year Computer Science Student at Bahir Dar University
+💼 Full Stack Development Intern at Alyah Software Company
+🌐 Specialized in MERN Stack Development
+📱 Flutter Mobile App Developer
+🔧 Passionate about Backend Systems & REST API Development
+🚀 Building scalable and modern full-stack applications
+📚 Continuously learning advanced software engineering concepts
+🎯 Goal: Become a Professional Software Engineer & Tech Innovator
 
 ---
 
@@ -24,6 +30,8 @@ I am a third-year Computer Science student at Bahir Dar University specializing 
     Express.js
     MongoDB
     RESTful APIs
+## Mobile App Development
+    Flutter
 ## Tools
     Git & GitHub
     Postman
@@ -93,10 +101,16 @@ A web app for browsing and watching movie trailers.
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/esubalew-molla-7a584739b  
-- GitHub: https://github.com/esubalew7  
-- Email: esubalew392@gmail.com  
+  📧 Email: esubalew392@gmail.com
+- LinkedIn: https://www.linkedin.com/in/esubalew-molla-7a584739b
+
+💡 Current Focus
+Advanced MERN Stack Development
+Flutter Mobile Applications
+RESTful API Architecture
+Backend Scalability
+Real-World Software Engineering Practices
 
 ---
 
-⭐ Always open to collaboration and new opportunities!
+⭐ Open for collaboration, internships, freelance opportunities, and innovative projects.
