@@ -1,12 +1,12 @@
-👋 Hi, I'm Esubalew Molla
+👋 Hi, I'm Esubalew Molla       
 🚀 Full Stack MERN Developer | Flutter Mobile App Developer
 
 I am a passionate Computer Science student at Bahir Dar University and a Full Stack Development Intern at Alyah Software Company.
 I specialize in building modern, scalable, and user-focused web & mobile applications using the MERN Stack and Flutter.
-
 I enjoy transforming ideas into real-world digital solutions with clean architecture, responsive UI, and efficient backend systems.
 
 💫 About Me
+
 🎓 3rd Year Computer Science Student at Bahir Dar University
 💼 Full Stack Development Intern at Alyah Software Company
 🌐 Specialized in MERN Stack Development
@@ -104,7 +104,9 @@ A web app for browsing and watching movie trailers.
   📧 Email: esubalew392@gmail.com
 - LinkedIn: https://www.linkedin.com/in/esubalew-molla-7a584739b
 
+
 💡 Current Focus
+
 Advanced MERN Stack Development
 Flutter Mobile Applications
 RESTful API Architecture
