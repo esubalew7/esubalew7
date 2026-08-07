@@ -1,12 +1,16 @@
 <p align="center">
   <a href="https://github.com/esubalew7">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Esubalew%20Molla" alt="Hello! I&#39;m Esubalew Molla" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=700&height=44&lines=Full%20Stack%20Developer%20%7C%20Flutter%20App%20developer" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-🎓 3rd Year Computer Science Student at Bahir Dar University 💼 Full Stack Development Intern at Askuala Link 🌐 Specialized in MERN and PERN Stack Development 📱 Flutter Mobile App Developer 🔧 Passionate about Backend Systems &amp; REST API Development 🚀 Building scalable and modern full-stack applications 📚 Continuously learning advanced software engineering concepts 🎯 Goal: Become a Professional Software Engineer &amp; Tech Innovator
+Third Year Computer Science Student at Bahir Dar University 💼 Full Stack Development Intern at Askuala Link 🌐 Specialized in MERN and PERN Stack Development 📱 Flutter Mobile App Developer 🔧 Passionate about Backend Systems &amp; REST API Development 🚀 Building scalable and modern full-stack applications 📚 Continuously learning advanced software engineering concepts 🎯 Goal: Become a Professional Software Engineer &amp; Tech Innovator
 
 🔭 &nbsp;I'm currently working on **Full Stack Development Intern at Askuala Link**
 
