@@ -1,6 +1,6 @@
 <!-- ============================ HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2ea043,100:00c853&height=220&section=header&text=Esubalew%20Molla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer&descSize=20&descAlignY=58" alt="Esubalew Molla banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2ea043,100:00c853&height=220&section=header&text=Esubalew%20Molla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Mobile%20Developer&descSize=20&descAlignY=58" alt="Esubalew Molla banner"/>
 </p>
 
 <p align="center">
