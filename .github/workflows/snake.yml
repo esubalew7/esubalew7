@@ -1,15 +1,15 @@
 name: Generate Contribution Snake
- 
+
 on:
   schedule:
     - cron: "0 0 * * *"      # daily at 00:00 UTC
-  workflow_dispatch:          # allows manual runs from the Actions tab
+  workflow_dispatch:          # lets you trigger it manually
   push:
     branches: [main]
- 
+
 permissions:
-  contents: write             # needed to push to the "output" branch
- 
+  contents: write             # required to push to the output branch
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -22,9 +22,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
- 
-      # IMPORTANT: target_branch must be "output", never your main branch,
-      # because this action replaces the contents of the target branch.
+
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
