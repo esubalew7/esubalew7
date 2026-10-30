@@ -47,7 +47,7 @@ I build full-stack web and mobile systems with a focus on **scalable backends, c
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,dart,java,php,html,css" alt="Languages"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,dart,java,php,html,css" alt="Languages"/> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap" alt="Frontend"/> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" alt="Backend"/> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Databases"/> |
@@ -62,7 +62,6 @@ I build full-stack web and mobile systems with a focus on **scalable backends, c
 |---------|-------------|------|--------|
 | 🚦 **Menged Transport** | National digital transport management platform | Node.js · Express · PostgreSQL · Prisma · Flutter | 🚧 In progress |
 | 🏢 **Commercial Property Platform** | Production-level property management system | *add stack* | *Private / add link* |
-| 📱 **Flutter Driver App** | Driver mobile app with authentication and document handling | Flutter · Dart | *add link* |
 | 🌐 **MERN Portfolio** | Personal developer portfolio | MongoDB · Express · React · Node.js | [Live ↗](https://portfolio-mern-one-rho.vercel.app) |
 
 ---
