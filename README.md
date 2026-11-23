@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/esubalew-molla-7a584739b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:esubalew392@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://portfolio-mern-one-rho.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2ea043?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://esubalew-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2ea043?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ I build full-stack web and mobile systems with a focus on **scalable backends, c
 |---------|-------------|------|--------|
 | 🚦 **Menged Transport** | National digital transport management platform | Node.js · Express · PostgreSQL · Prisma · Flutter | 🚧 In progress |
 | 🏢 **Commercial Property Platform** | Production-level property management system | *add stack* | *Private / add link* |
-| 🌐 **MERN Portfolio** | Personal developer portfolio | MongoDB · Express · React · Node.js | [Live ↗](https://portfolio-mern-one-rho.vercel.app) |
+| 🌐 **Full Stack Portfolio** | Personal developer portfolio | MongoDB · Express · React · Node.js | [Live ↗](https://esubalew-portfolio.vercel.app) |
 
 ---
 
@@ -154,7 +154,7 @@ Replace YOUR_WAKATIME_USERNAME, then uncomment.
   &nbsp;
   <a href="mailto:esubalew392@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
   &nbsp;
-  <a href="https://portfolio-mern-one-rho.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio"/></a>
+  <a href="https://esubalew-portfolio.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
